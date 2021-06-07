@@ -18,11 +18,11 @@ If you would like to use my Note Taker you would have to install the latest vers
 ## Screenshots 
 This is what you application should look like when you open it 
 - Homepage 
-
+![homepage](https://github.com/michelaqyteza/NoteTaker/blob/main/img/homescreensc.png?raw=true)
 
 - Note Taker 
 
-
+![notetaker](https://github.com/michelaqyteza/NoteTaker/blob/main/img/notetakersc.png?raw=true)
 
 ## Links 
 - To access my GitHub page Click [Here](https://github.com/michelaqyteza)
